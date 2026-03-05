@@ -16,10 +16,6 @@ Google Cloud Platform
 3. BigQuery
 4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
-
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
-
 ## Dataset Used
 Supermarket Sales Data - This dataset contains sales of the 3 branches of supermarket. It has fields like Invoice id, date, time, customer type, gender, payment type, Unit price, Total, COGS, Tax percent, and few more.
 
@@ -34,5 +30,3 @@ Kaggle Website - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 ## Looker Studio
 Dashboard link - https://lookerstudio.google.com/reporting/31aad5f0-6dd1-4836-aee0-e492e3aff3ea
 
-## YouTube Video
-Video Link - https://youtu.be/FSeBuB8cbaU
